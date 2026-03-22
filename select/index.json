@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "I Bet on Losing Dogs",
+  "base_artist": "Mitski",
+  "createdAt": "2026-03-22T12:26:26.471778Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Bet on Losing Dogs",
+      "artist": "Mitski",
+      "has_synced": true,
+      "path": "select/01_I_Bet_on_Losing_Dogs_Mitski.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Bet on Losing Dogs",
+      "artist": "Mitski",
+      "has_synced": true,
+      "path": "select/02_I_Bet_on_Losing_Dogs_Mitski.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Bet on Losing Dogs",
+      "artist": "Mitski",
+      "has_synced": true,
+      "path": "select/03_I_Bet_on_Losing_Dogs_Mitski.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Bet on Losing Dogs",
+      "artist": "Mitski",
+      "has_synced": true,
+      "path": "select/04_I_Bet_on_Losing_Dogs_Mitski.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Bet on Losing Dogs",
+      "artist": "Mitski",
+      "has_synced": true,
+      "path": "select/05_I_Bet_on_Losing_Dogs_Mitski.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Bet on Losing Dogs",
+      "artist": "Mitski",
+      "has_synced": true,
+      "path": "select/06_I_Bet_on_Losing_Dogs_Mitski.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Bet on Losing Dogs",
+      "artist": "Mitski",
+      "has_synced": true,
+      "path": "select/07_I_Bet_on_Losing_Dogs_Mitski.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Bet on Losing Dogs",
+      "artist": "Mitski",
+      "has_synced": true,
+      "path": "select/08_I_Bet_on_Losing_Dogs_Mitski.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Bet on Losing Dogs",
+      "artist": "Mitski, Mitski",
+      "has_synced": true,
+      "path": "select/09_I_Bet_on_Losing_Dogs_Mitski,_Mitski.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Bet on Losing Dogs",
+      "artist": "Audrey Rose",
+      "has_synced": true,
+      "path": "select/10_I_Bet_on_Losing_Dogs_Audrey_Rose.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Bet on Losing Dogs (Paused)",
+      "artist": "Mitski",
+      "has_synced": true,
+      "path": "select/11_I_Bet_on_Losing_Dogs_(Paused)_Mitski.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mitski - I Bet on Losing Dogs (Official Audio)",
+      "artist": "Mitski",
+      "has_synced": true,
+      "path": "select/12_Mitski_-_I_Bet_on_Losing_Dogs_(Official_Audio)_Mitski.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "mitski - i bet on losing dogs [ tradução | legendado ]",
+      "artist": "dobby.",
+      "has_synced": false,
+      "path": "select/13_mitski_-_i_bet_on_losing_dogs_[_tradução___legendado_]_dobby..txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "06 I Bet on Losing Dogs",
+      "artist": "Mitski",
+      "has_synced": true,
+      "path": "select/14_06_I_Bet_on_Losing_Dogs_Mitski.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mitski - I Bet on Losing Dogs (Official Audio)",
+      "artist": "Mitski",
+      "has_synced": true,
+      "path": "select/15_Mitski_-_I_Bet_on_Losing_Dogs_(Official_Audio)_Mitski.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Bet on Losing Dogs",
+      "artist": "Mitski",
+      "has_synced": false,
+      "path": "select/pl_01_I_Bet_on_Losing_Dogs_Mitski.txt"
+    }
+  ]
+}
